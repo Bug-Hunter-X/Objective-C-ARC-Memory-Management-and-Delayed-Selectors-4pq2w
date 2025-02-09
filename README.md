@@ -1,0 +1,1 @@
+This repository demonstrates two common yet subtle bugs in Objective-C: memory leaks due to improper ARC handling and crashes due to delayed selectors called on deallocated objects.  The `bug.m` file contains the buggy code, illustrating both issues. The `bugSolution.m` provides corrected versions with explanations.
